@@ -1,21 +1,23 @@
 
-# Free Tools  
+# Tools & Resources  
 -----------------------------
 
-[![Build Status](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master)](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master) Uses [awesome_bot](https://github.com/dkhamsing/awesome_bot).  
+[![Build Status](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master)](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources/) uses [awesome_bot](https://github.com/dkhamsing/awesome_bot).  
   
-Other great lists:
+Other great lists:  
 Mother of all Lists https://github.com/sindresorhus/awesome  
-More wonderful list of Game Development resources: 
+  
+More wonderful list of Game Development resources:  
     https://github.com/Kavex/GameDev-Resources  
-	https://github.com/ellisonleao/magictools  
+    https://github.com/ellisonleao/magictools  
     https://globalgamejam.org/jammer-resources  
 
 Info 1: http://www.sortingh.at/  
     This interactive guide is meant for people with no budget and no experience whatsoever in making games or programming. The guide also works for people who are working alone, though it can easily be used by teams as well.  
 
 Info 2: http://www.pixelprospector.com/game-development/  
-    Indie games... and essential resources for game developers  
+    Indie games... and essential resources for game developers  
+
 	
 Art
 ========================  
