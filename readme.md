@@ -11,7 +11,9 @@ More wonderful list of Game Development resources:
     https://github.com/Kavex/GameDev-Resources  
     https://github.com/ellisonleao/magictools  
     https://globalgamejam.org/jammer-resources  
-
+  	
+Free Programming Books: https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md    
+  
 Info 1: http://www.sortingh.at/  
     This interactive guide is meant for people with no budget and no experience whatsoever in making games or programming. The guide also works for people who are working alone, though it can easily be used by teams as well.  
 
