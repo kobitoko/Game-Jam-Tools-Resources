@@ -2,7 +2,7 @@
 # Tools & Resources  
 -----------------------------
 
-[![Build Status](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master)](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources/) uses [awesome_bot](https://github.com/dkhamsing/awesome_bot).  
+[![Build Status](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master)](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources/) Link verification by [awesome_bot](https://github.com/dkhamsing/awesome_bot).  
   
 Other great lists:  
 Mother of all Lists https://github.com/sindresorhus/awesome  
@@ -370,6 +370,7 @@ http://untamed.wild-refuge.net/rpgxp.php
   
 Images/Photos
 ------------
+https://www.pexels.com/  
 http://www.photosforwork.com/  
   
 Textures
