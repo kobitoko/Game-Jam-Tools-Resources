@@ -16,9 +16,12 @@ Free Programming Books: https://github.com/EbookFoundation/free-programming-book
   
 Info 1: http://www.sortingh.at/  
     This interactive guide is meant for people with no budget and no experience whatsoever in making games or programming. The guide also works for people who are working alone, though it can easily be used by teams as well.  
-
+  
 Info 2: http://www.pixelprospector.com/game-development/  
     Indie games... and essential resources for game developers  
+  
+Info 3: https://developer.mozilla.org/en-US/docs/Games  
+    MDN game development center.
 
 	
 Art
