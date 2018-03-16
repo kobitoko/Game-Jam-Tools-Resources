@@ -206,17 +206,22 @@ Online Audio Tools
     Generate some chord progressions for your music.  
         
     
-Music Generators, taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-alternative  
+Music Generators  
 ------------------------
+A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-alternative  
+  
 **CGmusic** http://codeminion.com/blogs/maciek/2008/05/cgmusic-computers-create-music/  
     Software with algorithms to create midi music for you.  
-
-**Soundhelix**  http://www.soundhelix.com/download  
+  
+**Soundhelix** http://www.soundhelix.com/download  
     Free open-source tool for generating more modern music, but has a very steep learning curve.  
-
+  
+**Melody Brains** http://www.melodybrains.com/  
+    Produces melodies with backing chords. Made by Marko http://fatdzo.github.io/  
+  
 **MusiGenisis** http://www.musigenesis.com/  
     Trial is fully functional but cannot export. Purchases are not available either anymore, you could try contacting them and hopefully get responses, but there possibly other solutions to capture the audio.  
-
+  
 **Fake Music Generator** http://www.fakemusicgenerator.com/  
     Creates an entire album using CGmusic's software.  
     
@@ -247,6 +252,7 @@ Game Engines, Frameworks, Libs.
 **Unreal** (Blueprint, C++) https://www.unrealengine.com/en-US/blog  
 **GODOT** (C++, C#, GDScript, Visual scripting, community-provided support for Python and more) https://godotengine.org/  
 **Game Maker Studio** (GML) https://www.yoyogames.com/gamemaker  
+**Ren'Py** a visual novel engine (Python) https://www.renpy.org/  
 **Construct 2** https://www.scirra.com/  
 **V-Play Engine** (C++, QML, JavaScript) https://v-play.net/  
 **WOLF RPG Editor** (Free WYSIWYG Rpg maker software) http://www.moddb.com/engines/wolf-rpg-editor  
@@ -254,6 +260,7 @@ Game Engines, Frameworks, Libs.
 **Danmakufu** (Bullet Hell Engine for running user-created danmaku scripts) https://dmf.shrinemaiden.org/wiki/Main_Page  
 **Mugen** (2D fighting game engine) https://mugenarchive.com/forums/downloads.php?do=file&id=1421  
   
+**LÖVE** (Lua) http://love2d.org/  
 **Phaser3 or Phaser CE** (JavaScript) http://phaser.io/  https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://libgdx.badlogicgames.com/  
   
