@@ -377,6 +377,9 @@ https://crateboy.itch.io/crateboy-2007-2014
 http://www.reinerstilesets.de/2d-grafiken/2d-animated/  
 http://www.dumbmanex.com/bynd_freestuff.html  
 http://untamed.wild-refuge.net/rpgxp.php  
+VN characters:  
+http://tokudaya.net/sozai-otoko1.html  
+http://tokudaya.net/sozai-onna1.html  
   
 Images/Photos
 ------------
