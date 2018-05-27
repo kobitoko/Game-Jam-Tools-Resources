@@ -109,6 +109,9 @@ Image/Animation Tools
 **Tiled Map Editor** https://thorbjorn.itch.io/tiled and http://www.mapeditor.org/  
     Tiled is a free software level editor. It supports editing tile maps in various projections (orthogonal, isometric, hexagonal) and also supports building levels with freely positioned, rotated or scaled images or annotating them with objects of various shapes. Also for its Unity import support https://seanba.itch.io/tiled2unity  
     
+**Explosion Generator** http://www.explosiongenerator.com/  
+    Generate very customizable 2D sprite explosions. It is a web app.  
+    
 **Sprite Sheet Previewer** https://github.com/kobitoko/Sprite-Sheet-Previewer  
     A simple .Net4.6 free tool to preview sprite sheets.  
     
