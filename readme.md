@@ -1,5 +1,6 @@
 
 # Tools & Resources  
+A list of many game jam tools and resources. 
 -----------------------------
 
 [![Build Status](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master)](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources/) Link verification by [awesome_bot](https://github.com/dkhamsing/awesome_bot).  
@@ -11,6 +12,7 @@ More wonderful list of Game Development resources:
     https://github.com/Kavex/GameDev-Resources  
     https://github.com/ellisonleao/magictools  
     https://globalgamejam.org/jammer-resources  
+    http://ludumdare.com/compo/tools/  
   	
 Free Programming Books: https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md    
   
@@ -156,9 +158,9 @@ Sound
 **bfxr** http://www.bfxr.net/  
     A free sound effect generator, and can export the results in wav format, alternatively you can download a Standalone version, since the online version uses Adobe Flash.  
 
-**rFXGen** https://raysan5.itch.io/rfxgen  
+**rFXGen** https://github.com/raysan5/rfxgen  
     A simple and easy-to-use tool to generate sounds for your games, based on the amazing sfxr.   
-    Requires Apache Ant to build and run it though http://opensource.cego.dk/spritemapper/doc.html   
+	Windows executable located here: https://github.com/raysan5/rfxgen/blob/master/release/win32/rfxgen.exe
  
 **Chiptone** http://sfbgames.com/chiptone  
     Free online tool (Adobe Flash) for generating sound effects. Can export the result in wav format.  
@@ -252,20 +254,27 @@ Video Editing
 Game Engines, Frameworks, Libs.
 ========================
 **Unity** (C#) https://unity3d.com/  
-**Unreal** (Blueprint, C++) https://www.unrealengine.com/en-US/blog  
-**GODOT** (C++, C#, GDScript, Visual scripting, community-provided support for Python and more) https://godotengine.org/  
-**Game Maker Studio** (GML) https://www.yoyogames.com/gamemaker  
+**Unreal** (Blueprint(Visual Scripting), C++) https://www.unrealengine.com/en-US/blog  
+**GODOT** (C++, C#, GDScript, Visual Scripting, community-provided support for Python and more) https://godotengine.org/  
 **Ren'Py** a visual novel engine (Python) https://www.renpy.org/  
-**Construct 2** https://www.scirra.com/  
+**GDevelop** (Visual Scripting, extendable with JavaScript)  https://gdevelop-app.com/  
+**Game Maker Studio** (Visual Scripting, GML) https://www.yoyogames.com/gamemaker  
+**Construct 2** (Visual Scripting) https://www.scirra.com/  
 **V-Play Engine** (C++, QML, JavaScript) https://v-play.net/  
 **WOLF RPG Editor** (Free WYSIWYG Rpg maker software) http://www.moddb.com/engines/wolf-rpg-editor  
 **Eclipse OnlineRPG engine** https://www.eclipseorigins.com/downloads  
 **Danmakufu** (Bullet Hell Engine for running user-created danmaku scripts) https://dmf.shrinemaiden.org/wiki/Main_Page  
+**Touhou Web Engine** Engine for web-based bullet dodging game (JavaScript) https://github.com/kvfrans/touhou  
 **Mugen** (2D fighting game engine) https://mugenarchive.com/forums/downloads.php?do=file&id=1421  
+**processing** good for small prototypes (Processing (Java-like))  https://processing.org/  
+  Processing in JS: http://p5js.org/ and Python: https://py.processing.org/  
   
 **LÖVE** (Lua) http://love2d.org/  
-**Phaser3 or Phaser CE** (JavaScript) http://phaser.io/  https://github.com/photonstorm/phaser-ce  
+**Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/  https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://libgdx.badlogicgames.com/  
+**BabylonJS** Create 3D WebGL games for the browser (JavaScript) https://www.babylonjs.com/  
+**PaperJS** A vector graphics scripting framework for HTML5 Canvas (JavaScript) http://paperjs.org/  
+**ZIM** A framework for the HTML5 Canvas, powered by CreateJS (JavaScript) https://zimjs.com/about.html  
   
 **pygame** (Python) https://www.pygame.org/news  
 **SFML** (C++, Java, Python and more) https://www.sfml-dev.org/  
@@ -295,6 +304,7 @@ Programming
 **Very Sleepy** (Windows only) http://www.codersnotes.com/sleepy/  
 
 ### Text Editors & IDEs:
+**Visual Studio Code** https://code.visualstudio.com/  
 **Atom** (C++, C#, JavaScript, Python, and more) https://atom.io/  
 **Notepad++** (a lot)  https://notepad-plus-plus.org/  
 **Brackets** (Web Development focused) http://brackets.io/  
@@ -309,6 +319,9 @@ Programming
     
 Other tools
 ========================
+
+**cmder** http://cmder.net/  
+    A great customizable console emulator for Windows, it looks nice and can have tabbed terminals etc.  
   
 **More Random tools on itch.io**  https://itch.io/tools  
   
