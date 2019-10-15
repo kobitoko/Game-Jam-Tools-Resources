@@ -26,6 +26,8 @@ Tools
 
 [Programming](#Programming)
 
+[Level Design](#Level-Design)
+
 [Other tools](#Other-tools)
 
 [Free Resources](#Free-Resources)
@@ -205,6 +207,9 @@ It has an outdated free version.
  You can adjust settings on each utility and it provides JS output for you to copy into your code.  
  It has Bezier Utility, Path Utility, Shadow Utility, Sprite Sheet Utility.  
  They offer also a library/app for looping gif animations on HTML/JS https://github.com/bit101/gifloopcoder
+ 
+ **Coolors** https://coolors.co/
+ Color schemes generator. Generates well balanced color palettes (up to 5 different colors per palette) for your game project.
 
 # Sound
 
@@ -323,6 +328,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **processing** good for small prototypes (Processing (Java-like)) https://processing.org/  
  Processing in JS: https://p5js.org/ and Python: https://py.processing.org/
 
+**Defold ** (Lua) https://defold.com/
 **LÖVE** (Lua) http://love2d.org/  
 **Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/ https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://libgdx.badlogicgames.com/  
@@ -369,6 +375,11 @@ Allows you to use gcc, g++ etc in windows.
 **Code::Blocks** (C/C++) http://www.codeblocks.org/  
 **Eclipse** (Java, C/C++, and more) https://eclipse.org/  
 **PyCharm** (Python) https://www.jetbrains.com/pycharm/
+
+# Level Design
+
+**Cavegen** https://elementalcode.itch.io/cavegen
+A Cave Generator based on Cellular Automata.
 
 # Other tools
 
