@@ -328,7 +328,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **processing** good for small prototypes (Processing (Java-like)) https://processing.org/  
  Processing in JS: https://p5js.org/ and Python: https://py.processing.org/
 
-**Defold ** (Lua) https://defold.com/
+**Defold** (Lua) https://defold.com/
 **LÖVE** (Lua) http://love2d.org/  
 **Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/ https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://libgdx.badlogicgames.com/  
@@ -364,6 +364,7 @@ Allows you to use gcc, g++ etc in windows.
 
 ### Text Editors & IDEs:
 
+**IntelliJ IDEA** (Java, Kotlin, Scala, Groovy and more JVM languages) https://www.jetbrains.com/idea/
 **Visual Studio Code** https://code.visualstudio.com/  
 **Atom** (C++, C#, JavaScript, Python, and more) https://atom.io/  
 **Notepad++** (a lot) https://notepad-plus-plus.org/  
