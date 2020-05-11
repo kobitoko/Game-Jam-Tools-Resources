@@ -46,9 +46,14 @@ More wonderful list of Game Development resources:
  https://github.com/Kavex/GameDev-Resources  
  https://github.com/ellisonleao/magictools  
  https://globalgamejam.org/jammer-resources  
- http://ludumdare.com/compo/tools/
+ http://ludumdare.com/compo/tools/  
 
-Free Programming Books: https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+Website for animation resources: https://animatorsresourcekit.blog/
+
+A map/catalog of game dev organizations: https://gamedevmap.com
+
+Free Programming Books: https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md  
+
 
 Info 1: http://www.sortingh.at/  
  This interactive guide is meant for people with no budget and no experience whatsoever in making games or programming. The guide also works for people who are working alone, though it can easily be used by teams as well.
@@ -58,6 +63,9 @@ Info 2: http://www.pixelprospector.com/game-development/
 
 Info 3: https://developer.mozilla.org/en-US/docs/Games  
  MDN game development center.
+
+Info 4: http://gameprogrammingpatterns.com/contents.html
+ Book with a collection of patterns found in games that make code cleaner, easier to understand, and faster.
 
 Art
 ========================  
@@ -97,8 +105,8 @@ Art
 **MakeHuman** http://www.makehumancommunity.org/  
  An open source tool to create a base for 3D humanoid characters.
 
-**VRoid Studio** https://vroid.com/studio/  
- A virtual youtuber character creating tool, might be neat as a base for 3D anime like characters, its currently in Japanese only.
+**VRoid Studio** https://vroid.com/en/studio/  
+ A virtual youtuber character creating tool, might be neat as a base for 3D anime like characters. 
 
 # Animation
 
@@ -113,14 +121,15 @@ Art
  Has frame-by-frame raster animation, with very customizable onion skinning.
 
 **Paint.Net with plugin** https://pixelbyte.itch.io/paint-net-sprite-plugin  
- Can help out with sprite sheet editing and save as gif too.
+ Can help out with sprite sheet editing and save as gif too.  
 
-**DragonBones** http://www.dragonbones.com/en/animation.html  
+**Rive** https://rive.app/  
+ A free cloud based animation webapp featuring Vector and Raster support, skeletal, mesh deformations, IK etc. An account allows for unlimited public files, but private files needs a paid plan.  
+ It also includes runtime implementaitons at https://rive.app/runtimes  
+
+**DragonBones** https://docs.egret.com/dragonbones/en/index.html  
  A free 2D bone animation tool/editor, features skeletal and skinning/mesh + IK and timelines etc. It's a great free alternative to Spine. It has integrations for: SFML(C++), ThreeJS + Pixi + Phaser (JS & TypeScript), unity, and GoDot plugin and more. Also has tools to convert to Spine json, Live2d json with these tools: https://github.com/DragonBones/Tools  
  Find more about their runtime integrations at https://github.com/DragonBones  
- In order to export, open the software and close it and let it update to 5.6.2 (which removes the online test for export).
- You can then click the export menu item even if it looks like its disabled.  
- If you don't update to 5.6.2 you can register a free account here (in chinese only) https://account.egret.com/sso/register  
 
 **Live2D Cubism** https://www.live2d.com/en/download  
  Is an animation tool that allows illusion of 3D from 2D characters, and provides ability to adjust their emotions and movements allowing for characters with detailed expressions, great for visual novels.  
@@ -131,9 +140,6 @@ Art
  It is an open source 2D keyframe animation tool based on deformation of polygon meshes.  
  Exporting animations to an animated GIF, or sequence PNG/JPEG. Or Video formats like WEBM and MP4 etc. using FFmpeg (need to download it seperately).  
  Their github: https://github.com/hidefuku/AnimeEffects
-
-**2dimensions** https://www.2dimensions.com/  
- A cloud based keyframe animation webapp, an account allows for unlimited public files, but private files needs a paid plan.
 
 **Anima2D (Unity plugin)** https://assetstore.unity.com/packages/essentials/unity-anima2d-79840  
  Has 2D Bones, Sprite to mesh conversion, SpriteMesh Editor, Automatic weights, Weight Editor, Inverse Kinematics etc.
@@ -176,7 +182,7 @@ It has an outdated free version.
 **Sprite Sheet Previewer** https://github.com/kobitoko/Sprite-Sheet-Previewer  
  A simple .Net4.6 free tool to preview sprite sheets.
 
-**SpriteMapper** http://opensource.cego.dk/spritemapper/  
+**SpriteMapper** https://github.com/huandu/spritemapper  
  SpriteMapper is a Java program which creates sprite maps (or sprite sheets) from a set of input images.
 
 **FontSprite** https://adamstrange.itch.io/fontsprite  
@@ -298,6 +304,9 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Lightworks** https://www.lwks.com/  
  a professional-quality video editor that is free for home use.
 
+**Natron** https://natrongithub.github.io/  
+    a free open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  
+
 **Shotcut** https://www.shotcut.org/  
  a free, open-source, cross-platform video editor.
 
@@ -306,9 +315,6 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 
 **Kdenlive** https://kdenlive.org/  
  a free and open-source video editor.
-
-**avidemux** http://fixounet.free.fr/avidemux/  
- a free and open-source video editor designed for simple cutting, filtering and encoding tasks
 
 # Game Engines, Frameworks, Libs.
 
@@ -322,7 +328,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **FELGO (formerly known as V-Play)** crossplatform games/apps (C++, QML, JavaScript) https://felgo.com/  
 **WOLF RPG Editor** (Free WYSIWYG Rpg maker software) https://www.moddb.com/engines/wolf-rpg-editor  
 **Eclipse OnlineRPG engine** https://www.eclipseorigins.com/downloads  
-**Danmakufu** (Bullet Hell Engine for running user-created danmaku scripts) https://dmf.shrinemaiden.org/wiki/Main_Page  
+**Danmakufu** (Bullet Hell Engine for running user-created danmaku scripts) https://dmf.shrinemaiden.com/  
 **Touhou Web Engine** Engine for web-based bullet dodging game (JavaScript) https://github.com/kvfrans/touhou  
 **Mugen** (2D fighting game engine) https://mugenarchive.com/forums/downloads.php?do=file&id=1421  
 **processing** good for small prototypes (Processing (Java-like)) https://processing.org/  
@@ -340,7 +346,9 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **SFML** (C++, Java, Python and more) https://www.sfml-dev.org/  
 **SDL2** (C, C++) https://www.libsdl.org/download-2.0.php  
 **Box2D** a 2D physics engine for games (C++, ports for: JavaScript, Java, C# ) https://github.com/erincatto/Box2D  
-**Liquidfun** = Box2d + fluid simulation (C++, JavaScript, Java) http://google.github.io/liquidfun/
+**Chipmunk2D** 2D rigid body physics library written in C (C++, Python, Ruby, Java, Ports: JS) http://chipmunk-physics.net/  
+**Liquidfun** = Box2d + fluid simulation (C++, JavaScript, Java) http://google.github.io/liquidfun/  
+**RMLUi** a C++ user interface package based on HTML and CSS standards (C++, XHTML1.0, CSS2.0, borrowing features from HTML5 and CSS3) https://github.com/mikke89/RmlUi  
 
 List of HTML5 game engines https://html5gameengine.com/
 
@@ -370,7 +378,7 @@ Allows you to use gcc, g++ etc in windows.
 **Notepad++** (a lot) https://notepad-plus-plus.org/  
 **Brackets** (Web Development focused) http://brackets.io/  
 **Geany** (C++, C#, JavaScript, Python, and more) https://www.geany.org/Main/HomePage  
-**Visual Studio Community edition** (C++, C#, VB, and more) https://www.visualstudio.com/vs/community/  
+**Visual Studio Community edition** (C++, C#, VB, and more)    https://visualstudio.microsoft.com/vs/community/  
 **Netbeans** (Java, PHP, C/C++, HTML5) https://netbeans.org/  
 **Android Studio** (Android App Development focused) https://developer.android.com/studio/index.html  
 **Code::Blocks** (C/C++) http://www.codeblocks.org/  
@@ -389,7 +397,10 @@ A Cave Generator based on Cellular Automata.
 
 **More Random tools on itch.io** https://itch.io/tools
 
-**File Converter** https://github.com/Tichau/FileConverter
+**File Converter** https://github.com/Tichau/FileConverter  
+
+**QWinFF** https://qwinff.github.io/  
+    An open-source GUI for ffmpeg http://ffmpeg.org/ which is an open-source command-line media converter.  
 
 **Slack** https://slack.com/  
  A team communication app.
@@ -447,18 +458,18 @@ https://kenney.nl/assets
 https://itch.io/game-assets/  
 http://www.openpixelproject.com/  
 https://opengameart.org/  
-https://opengamegraphics.com/#categories  
 https://www.gameart2d.com/freebies.html  
 http://game-icons.net/  
 https://www.newgrounds.com/art  
 https://www.freepik.com/  
 https://crateboy.itch.io/crateboy-2007-2014  
-https://www.reinerstilesets.de/2d-grafiken/2d-animated/  
 http://www.dumbmanex.com/bynd_freestuff.html  
 http://untamed.wild-refuge.net/rpgxp.php  
-VN characters:  
+Visual Novel characters:  
 http://tokudaya.net/sozai-otoko1.html  
-http://tokudaya.net/sozai-onna1.html
+http://tokudaya.net/sozai-onna1.html  
+Anime gacha card game templates and character art  
+http://www.jewel-s.jp/  
 
 ## Images/Photos Resources
 
