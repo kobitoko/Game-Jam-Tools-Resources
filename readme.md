@@ -79,9 +79,7 @@ Art
 **Paint.NET** https://www.getpaint.net/  
  Another free image and photo editing software for windows.
 
-3D
-
----
+## 3D
 
 **Blender** https://www.blender.org/  
  A free & open-source 3D modeling, sculpting, and animation software
@@ -147,9 +145,7 @@ Art
 **COA Tools (Blender Addon)** (CutOut Animation Tools) https://github.com/ndee85/coa_tools  
  2D cutout animation workflow similar to programs like spine or spriter.
 
-Pixel Art/Animation software
-
----
+## Pixel Art/Animation software
 
 **Graphics Gale** https://graphicsgale.com/us/  
  Good tool for pixel art and spriting, has a free version.
@@ -260,9 +256,7 @@ A simple and easy-to-use tool to generate sounds for your games, based on the am
 **Milkytracker** http://milkytracker.titandemo.org/ https://github.com/milkytracker/milkytracker  
  A free multi-platform music application for creating .MOD and .XM module files.
 
-Online Audio Tools
-
----
+## Online Audio Tools
 
 **Soundation Studio** https://soundation.com/  
  A free powerful online music studio. Has paid plans with more features.
@@ -276,9 +270,7 @@ Online Audio Tools
 **Autochords** https://autochords.com/  
  Generate some chord progressions for your music.
 
-Music Generators
-
----
+## Music Generators
 
 A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-alternative
 
@@ -321,6 +313,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Unity** (C#) https://unity.com/  
 **Unreal** (Blueprint(Visual Scripting), C++) https://www.unrealengine.com/  
 **GODOT** (C++, C#, GDScript, Visual Scripting, community-provided support for Python and more) https://godotengine.org/  
+**Cocos Creator, Cocos2dx** (Creator: JS, TypeScript. Cocos2dx: C++, Lua) https://www.cocos.com/en/ https://github.com/cocos2d/cocos2d-x  
 **Ren'Py** a visual novel engine (Python) https://www.renpy.org/  
 **GDevelop** (Visual Scripting, extendable with JavaScript) https://gdevelop-app.com/  
 **Game Maker Studio** (Visual Scripting, GML) https://www.yoyogames.com/gamemaker  
@@ -365,10 +358,12 @@ itch.io list of game engines (and more) https://itch.io/blog/6037/get-ready-for-
  Minimal SYStem 2 is a software distro and building platform for Windows.
 Allows you to use gcc, g++ etc in windows.
 
-### Free C/C++ Profiling:
+### Free C/C++ Profiling/Testing:
 
-**CodeXL** https://gpuopen.com/compute-product/codexl/  
-**Very Sleepy** (Windows only) http://www.codersnotes.com/sleepy/
+**CodeXL** https://github.com/GPUOpen-Archive/CodeXL  
+**Very Sleepy** (Windows only) http://www.codersnotes.com/sleepy/  
+**cppcheck** (a static analysis tool for C/C++) https://github.com/danmar/cppcheck/  
+**Googletests** (a C++ test framework) https://github.com/google/googletest  
 
 ### Text Editors & IDEs:
 
@@ -419,8 +414,6 @@ A Cave Generator based on Cellular Automata.
 
 # Free Resources
 
----
-
 Useful Web Resources:
 
 # Upload your Games etc.
@@ -468,7 +461,7 @@ http://untamed.wild-refuge.net/rpgxp.php
 Visual Novel characters:  
 http://tokudaya.net/sozai-otoko1.html  
 http://tokudaya.net/sozai-onna1.html  
-Anime gacha card game templates and character art  
+Anime gacha card game templates and character art:  
 http://www.jewel-s.jp/  
 
 ## Images/Photos Resources
