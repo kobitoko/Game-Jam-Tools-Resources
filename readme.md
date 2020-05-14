@@ -31,7 +31,8 @@ Tools
 [Other tools](#Other-tools)
 
 [Free Resources](#Free-Resources)
-
+- [Upload Games](#upload-your-games-etc)
+- [Online Game Services API](#online-game-services-api)
 - [Sound](#Sound-Resources)
 - [Music](#Music-Resources)
 - [Art](#Art-Resources)
@@ -364,6 +365,7 @@ Allows you to use gcc, g++ etc in windows.
 **Very Sleepy** (Windows only) http://www.codersnotes.com/sleepy/  
 **cppcheck** (a static analysis tool for C/C++) https://github.com/danmar/cppcheck/  
 **Googletests** (a C++ test framework) https://github.com/google/googletest  
+**clumsy** (lag/network condition emulator) https://github.com/IntouchHealth/clumsy  
 
 ### Text Editors & IDEs:
 
@@ -421,6 +423,12 @@ Useful Web Resources:
 https://itch.io/  
 https://gamejolt.com/  
 https://www.indiedb.com/
+
+## Online Game Services API
+https://dev.epicgames.com/en-US/services  
+https://gamejolt.com/game-api/doc  
+https://developers.google.com/games/services  
+https://www.newgrounds.com/wiki/creator-resources/flash-api  
 
 # Sound Resources
 
