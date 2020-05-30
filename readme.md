@@ -313,6 +313,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 
 **Unity** (C#) https://unity.com/  
 **Unreal** (Blueprint(Visual Scripting), C++) https://www.unrealengine.com/  
+**Defold** (Lua, C++) https://defold.com/  
 **GODOT** (C++, C#, GDScript, Visual Scripting, community-provided support for Python and more) https://godotengine.org/  
 **Cocos Creator, Cocos2dx** (Creator: JS, TypeScript. Cocos2dx: C++, Lua) https://www.cocos.com/en/ https://github.com/cocos2d/cocos2d-x  
 **Ren'Py** a visual novel engine (Python) https://www.renpy.org/  
@@ -325,10 +326,10 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Danmakufu** (Bullet Hell Engine for running user-created danmaku scripts) https://dmf.shrinemaiden.com/  
 **Touhou Web Engine** Engine for web-based bullet dodging game (JavaScript) https://github.com/kvfrans/touhou  
 **Mugen** (2D fighting game engine) https://mugenarchive.com/forums/downloads.php?do=file&id=1421  
+**OpenBOR** (2D side scrolling/Beat'em up engine) https://github.com/DCurrent/openbor  
 **processing** good for small prototypes (Processing (Java-like)) https://processing.org/  
  Processing in JS: https://p5js.org/ and Python: https://py.processing.org/
 
-**Defold** (Lua) https://defold.com/  
 **LÖVE** (Lua) http://love2d.org/  
 **Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/ https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://libgdx.badlogicgames.com/  
@@ -388,6 +389,9 @@ Allows you to use gcc, g++ etc in windows.
 A Cave Generator based on Cellular Automata.
 
 # Other tools
+
+**YarnSpinner Editor** https://github.com/YarnSpinnerTool/YarnEditor  
+ A dialogue editor tool used to write interactive dialogue, it has a C# and JS library for runtimes, also supports Unity.
 
 **cmder** http://cmder.net/  
  A great customizable console emulator for Windows, it looks nice and can have tabbed terminals etc.
