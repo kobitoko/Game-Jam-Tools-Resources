@@ -28,6 +28,8 @@ Tools
 
 [Level Design](#Level-Design)
 
+[Quest Design](#Quest-Design)
+
 [Other tools](#Other-tools)
 
 [Free Resources](#Free-Resources)
@@ -387,6 +389,10 @@ Allows you to use gcc, g++ etc in windows.
 
 **Cavegen** https://elementalcode.itch.io/cavegen
 A Cave Generator based on Cellular Automata.
+
+# Quest Design
+**RapidQuest** https://www.rapidquest.ai
+Visual development environment for designing branching game quests & narratives using AI.
 
 # Other tools
 
