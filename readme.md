@@ -55,7 +55,7 @@ Website for animation resources: https://animatorsresourcekit.blog/
 
 A map/catalog of game dev organizations: https://gamedevmap.com
 
-Free Programming Books: https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md  
+Free Programming Books: https://github.com/EbookFoundation/free-programming-books/
 
 
 Info 1: http://www.sortingh.at/  
@@ -87,7 +87,7 @@ Art
 **Blender** https://www.blender.org/  
  A free & open-source 3D modeling, sculpting, and animation software
 
-**Sculptris** http://pixologic.com/sculptris/  
+**Sculptris** https://zbrushcore.com/mini/  
  A free 3D sculpting tool, kind of the free version of zbrush.
 
 **Crocotile3D** https://prominent.itch.io/crocotile3d  
@@ -142,8 +142,9 @@ Art
  Exporting animations to an animated GIF, or sequence PNG/JPEG. Or Video formats like WEBM and MP4 etc. using FFmpeg (need to download it seperately).  
  Their github: https://github.com/hidefuku/AnimeEffects
 
-**Anima2D (Unity plugin)** https://assetstore.unity.com/packages/essentials/unity-anima2d-79840  
- Has 2D Bones, Sprite to mesh conversion, SpriteMesh Editor, Automatic weights, Weight Editor, Inverse Kinematics etc.
+**Anima2D (Unity plugin)** https://unity.com/features/2danimation  
+ Now apart of Unity2D, it has 2D Bones, Sprite to mesh conversion, SpriteMesh Editor, Automatic weights, Weight Editor, Inverse Kinematics etc.  
+
 
 **COA Tools (Blender Addon)** (CutOut Animation Tools) https://github.com/ndee85/coa_tools  
  2D cutout animation workflow similar to programs like spine or spriter.
@@ -208,10 +209,10 @@ It has an outdated free version.
 **Dither Machine** https://lunarlabs.itch.io/dither-machine  
  Dither Machine is a tool to help you generate dithering automatically, instead of doing it by hand, which can be a tedious task.
 
-**HTML Animation and Utilities** http://www.gifloopcoder.com/utils.html  
+**HTML Animation and Utilities** https://github.com/bit101/gifloopcoder  
  You can adjust settings on each utility and it provides JS output for you to copy into your code.  
  It has Bezier Utility, Path Utility, Shadow Utility, Sprite Sheet Utility.  
- They offer also a library/app for looping gif animations on HTML/JS https://github.com/bit101/gifloopcoder
+ They offer also a library/app for looping gif animations on HTML/JS https://github.com/msurguy/gifloopcoder  
  
  **Coolors** https://coolors.co/
  Color schemes generator. Generates well balanced color palettes (up to 5 different colors per palette) for your game project.
@@ -324,17 +325,17 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Construct 2** (Visual Scripting) https://www.scirra.com/  
 **FELGO (formerly known as V-Play)** crossplatform games/apps (C++, QML, JavaScript) https://felgo.com/  
 **WOLF RPG Editor** (Free WYSIWYG Rpg maker software) https://www.moddb.com/engines/wolf-rpg-editor  
-**Eclipse OnlineRPG engine** https://www.eclipseorigins.com/downloads  
-**Danmakufu** (Bullet Hell Engine for running user-created danmaku scripts) https://dmf.shrinemaiden.com/  
+**Eclipse OnlineRPG engine** https://github.com/legacygamedev/eclipseorigins3 https://github.com/RobinPerris/EclipseOrigins community: https://forum.eclipseorigins.com/  
+**Danmakufu ph3** (Bullet Hell Engine for running user-created danmaku scripts) https://shrinemaiden.com/index.php?topic=129.0 EN docs: https://sparen.github.io/ph3tutorials/docs.html   
 **Touhou Web Engine** Engine for web-based bullet dodging game (JavaScript) https://github.com/kvfrans/touhou  
-**Mugen** (2D fighting game engine) https://mugenarchive.com/forums/downloads.php?do=file&id=1421  
+**Mugen** (2D fighting game engine) https://mugenarchive.com/forums/downloads.php?do=file&id=1421--official-mugen-1-0-stable-elecbyte  
 **OpenBOR** (2D side scrolling/Beat'em up engine) https://github.com/DCurrent/openbor  
 **processing** good for small prototypes (Processing (Java-like)) https://processing.org/  
  Processing in JS: https://p5js.org/ and Python: https://py.processing.org/
 
 **LÖVE** (Lua) http://love2d.org/  
 **Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/ https://github.com/photonstorm/phaser-ce  
-**libGDX** (Java) https://libgdx.badlogicgames.com/  
+**libGDX** (Java) https://github.com/libgdx/libgdx  
 **BabylonJS** Create 3D WebGL games for the browser (JavaScript) https://www.babylonjs.com/  
 **PaperJS** A vector graphics scripting framework for HTML5 Canvas (JavaScript) http://paperjs.org/  
 **ZIM** A framework for the HTML5 Canvas, powered by CreateJS (JavaScript) https://zimjs.com/about.html
@@ -479,8 +480,6 @@ http://untamed.wild-refuge.net/rpgxp.php
 Visual Novel characters:  
 http://tokudaya.net/sozai-otoko1.html  
 http://tokudaya.net/sozai-onna1.html  
-Anime gacha card game templates and character art:  
-http://www.jewel-s.jp/  
 
 ## Images/Photos Resources
 
