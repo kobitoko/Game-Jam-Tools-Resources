@@ -300,8 +300,11 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Lightworks** https://www.lwks.com/  
  a professional-quality video editor that is free for home use.
 
+**DaVinci Resolve** https://www.blackmagicdesign.com/products/davinciresolve/  
+ another professional-quality video editor that has a free version.
+
 **Natron** https://natrongithub.github.io/  
-    a free open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  
+ a free open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  
 
 **Shotcut** https://www.shotcut.org/  
  a free, open-source, cross-platform video editor.
