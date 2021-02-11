@@ -126,7 +126,7 @@ Art
 
 **Rive** https://rive.app/  
  A free cloud based animation webapp featuring Vector and Raster support, skeletal, mesh deformations, IK etc. An account allows for unlimited public files, but private files needs a paid plan.  
- It also includes runtime implementaitons at https://rive.app/runtimes  
+ It also includes runtime implementations at https://help.rive.app/runtimes/overview  
 
 **DragonBones** https://docs.egret.com/dragonbones/en/index.html  
  A free 2D bone animation tool/editor, features skeletal and skinning/mesh + IK and timelines etc. It's a great free alternative to Spine. It has integrations for: SFML(C++), ThreeJS + Pixi + Phaser (JS & TypeScript), unity, and GoDot plugin and more. Also has tools to convert to Spine json, Live2d json with these tools: https://github.com/DragonBones/Tools  
@@ -358,7 +358,7 @@ itch.io list of game engines (and more) https://itch.io/blog/6037/get-ready-for-
 # Programming
 
 **HumbleNet** a cross-platform networking library that works in the browser (C/C++ C#) https://github.com/HumbleNet/HumbleNet  
-**enet** ENet reliable UDP networking library (C) http://enet.bespin.org/  
+**enet** ENet reliable UDP networking library (C) http://enet.bespin.org/ https://github.com/lsalzman/enet  
 **GameJolt Api** https://gamejolt.com/help/dev-game-api  
  Communicates with the Game Jolt servers. Implementing the Game API allows you to add features to your game such as: Online score tables, Trophies (achievements), Cloud data storage, Game session logging, User verification and auto-login.
 
@@ -487,18 +487,27 @@ http://tokudaya.net/sozai-onna1.html
 ## Images/Photos Resources
 
 https://www.pexels.com/  
-https://www.photosforwork.com/
+https://www.photosforwork.com/  
 
 ## Textures Resources
 
+https://cc0textures.com/  
+https://www.sharetextures.com/  
+https://3dtextures.me/  
 https://soundimage.org/ (TXR-\*)  
 http://texturelib.com/  
 https://freestocktextures.com/  
-https://www.toptal.com/designers/subtlepatterns/
+https://www.toptal.com/designers/subtlepatterns/  
 
 ## 3D Objects Resources
 
 http://quaternius.com/assets.html ( https://www.reddit.com/r/gamedev/comments/772z0w/free_lowpoly_furniture/ )  
+https://nasa3d.arc.nasa.gov/  
+https://www.3dmodelscc0.com/  
+https://www.gameassetsgarden.com/  
+https://resources.blogscopia.com/category/models/  
+https://www.blender-models.com/  
+http://www.esi.uclm.es/museo/index_en.html  
 https://free3d.com/  
 https://archive3d.net/  
-http://www.3dmodelfree.com/
+http://www.3dmodelfree.com/  
