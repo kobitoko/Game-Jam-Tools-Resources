@@ -5,42 +5,31 @@
 [![Build Status](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master)](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources/) Link verification by [awesome_bot](https://github.com/dkhamsing/awesome_bot).
 
 Tools  
-[Art](#Art)
-
-- [3D](#3D)
-- [Animation](#Animation)
-- [Pixel Art/Animation software](#pixel-artanimation-software)
-- [Image/Animation Tools](#imageanimation-tools)
-
-[Sound](#Sound)
-
-[Music](#Music)
-
-- [Trackers](#Trackers)
-- [Online Audio Tools](#Online-Audio-Tools)
-- [Music Generators](#Music-Generators)
-
-[Video Editing](#Video-Editing)
-
-[Game Engines, Frameworks, Libs.](#game-engines-frameworks-libs)
-
-[Programming](#Programming)
-
-[Level Design](#Level-Design)
-
-[Quest Design](#Quest-Design)
-
-[Other tools](#Other-tools)
-
-[Free Resources](#Free-Resources)
-- [Upload Games](#upload-your-games-etc)
-- [Online Game Services API](#online-game-services-api)
-- [Sound](#Sound-Resources)
-- [Music](#Music-Resources)
-- [Art](#Art-Resources)
-- [Images/Photos](#imagesphotos-resources)
-- [Textures](#Textures-Resources)
-- [3D objects](#3D-Objects-Resources)
+- [Art](#Art)
+  - [3D](#3D)
+  - [Animation](#Animation)
+  - [Pixel Art/Animation software](#pixel-artanimation-software)
+  - [Image/Animation Tools](#imageanimation-tools)
+- [Sound](#Sound)
+- [Music](#Music)
+  - [Trackers](#Trackers)
+  - [Online Audio Tools](#Online-Audio-Tools)
+  - [Music Generators](#Music-Generators)
+- [Video Editing](#Video-Editing)
+- [Game Engines, Frameworks, Libs.](#game-engines-frameworks-libs)
+- [Programming](#Programming)
+- [Level Design](#Level-Design)
+- [Quest Design](#Quest-Design)
+- [Other tools](#Other-tools)
+- [Free Resources](#Free-Resources)
+  - [Upload Games](#upload-your-games-etc)
+  - [Online Game Services API](#online-game-services-api)
+  - [Sound](#Sound-Resources)
+  - [Music](#Music-Resources)
+  - [Art](#Art-Resources)
+  - [Images/Photos](#imagesphotos-resources)
+  - [Textures](#Textures-Resources)
+  - [3D objects](#3D-Objects-Resources)
 
 Other great lists:  
 Mother of all Lists https://github.com/sindresorhus/awesome
@@ -50,6 +39,7 @@ More wonderful list of Game Development resources:
  https://github.com/ellisonleao/magictools  
  https://globalgamejam.org/jammer-resources  
  http://ludumdare.com/compo/tools/  
+ https://devga.me/free/  
 
 Website for animation resources: https://animatorsresourcekit.blog/
 
@@ -89,6 +79,10 @@ Art
 
 **Sculptris** https://zbrushcore.com/mini/  
  A free 3D sculpting tool, kind of the free version of zbrush.
+
+**picoCAD** https://johanpeitz.itch.io/picocad  
+ A free tool to make and texture lowpoly 3D objects, using the pico8 engine. 
+ Exporting to obj/mtl is in progress and can be found on their discord.
 
 **Crocotile3D** https://prominent.itch.io/crocotile3d  
  A tool for creating 3d scenes with tiles. Think of it as creating 2d tilemaps with three dimensions.  
@@ -446,7 +440,7 @@ https://www.newgrounds.com/wiki/creator-resources/flash-api
 
 # Sound Resources
 
-https://sonniss.com/gameaudiogdc19/  
+https://sonniss.com/gameaudiogdc  
 http://soundimage.org/  
 https://www.freesound.org/  
 http://soundbible.com/  
@@ -455,6 +449,7 @@ http://www.flashkit.com/soundfx/
 # Music Resources
 
 https://incompetech.filmmusic.io/  
+https://www.bensound.com/  
 https://soundimage.org/  
 https://anttismusic.blogspot.com/ ( https://www.reddit.com/r/gamedev/comments/72yapm/i_have_released_my_1393_instrumental_songs_free/ )  
 https://www.newgrounds.com/audio/  
