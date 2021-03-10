@@ -1,6 +1,0 @@
-language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-script: awesome_bot readme.md --allow-dupe --allow-redirect --allow-ssl --white-list "travis-ci","https://mugenarchive.com/forums/downloads.php?do=file&id=1421","https://www.pexels.com/"
-notifications:
-  email: false

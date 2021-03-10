@@ -2,8 +2,6 @@
 
 ## A list of many game jam tools and [resources](#Free-Resources).
 
-[![Build Status](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources.svg?branch=master)](https://travis-ci.org/kobitoko/Game-Jam-Tools-Resources/) Link verification by [awesome_bot](https://github.com/dkhamsing/awesome_bot).
-
 Tools  
 - [Art](#Art)
   - [3D](#3D)
@@ -21,18 +19,18 @@ Tools
 - [Level Design](#Level-Design)
 - [Quest Design](#Quest-Design)
 - [Other tools](#Other-tools)
-- [Free Resources](#Free-Resources)
-  - [Upload Games](#upload-your-games-etc)
-  - [Online Game Services API](#online-game-services-api)
-  - [Sound](#Sound-Resources)
-  - [Music](#Music-Resources)
-  - [Art](#Art-Resources)
-  - [Images/Photos](#imagesphotos-resources)
-  - [Textures](#Textures-Resources)
-  - [3D objects](#3D-Objects-Resources)
+[Free Resources](#Free-Resources)
+- [Upload Games](#upload-your-games-etc)
+- [Online Game Services API](#online-game-services-api)
+- [Sound](#Sound-Resources)
+- [Music](#Music-Resources)
+- [Art](#Art-Resources)
+- [Images/Photos](#imagesphotos-resources)
+- [Textures](#Textures-Resources)
+- [3D objects](#3D-Objects-Resources)
 
 Other great lists:  
-Mother of all Lists https://github.com/sindresorhus/awesome
+List of lists https://github.com/sindresorhus/awesome
 
 More wonderful list of Game Development resources:  
  https://github.com/Kavex/GameDev-Resources  
@@ -41,23 +39,25 @@ More wonderful list of Game Development resources:
  http://ludumdare.com/compo/tools/  
  https://devga.me/free/  
 
-Website for animation resources: https://animatorsresourcekit.blog/
+https://animatorsresourcekit.blog/  
+ Website for animation resources  
 
-A map/catalog of game dev organizations: https://gamedevmap.com
+https://gamedevmap.com  
+ A map/catalog of game dev organizations.  
 
-Free Programming Books: https://github.com/EbookFoundation/free-programming-books/
+https://github.com/EbookFoundation/free-programming-books/  
+ Free Programming Books.  
 
-
-Info 1: http://www.sortingh.at/  
+http://www.sortingh.at/  
  This interactive guide is meant for people with no budget and no experience whatsoever in making games or programming. The guide also works for people who are working alone, though it can easily be used by teams as well.
 
-Info 2: http://www.pixelprospector.com/game-development/  
+http://www.pixelprospector.com/game-development/  
  Indie games... and essential resources for game developers
 
-Info 3: https://developer.mozilla.org/en-US/docs/Games  
- MDN game development center.
+https://developer.mozilla.org/en-US/docs/Games  
+ MDN web game development center.
 
-Info 4: http://gameprogrammingpatterns.com/contents.html
+http://gameprogrammingpatterns.com/contents.html
  Book with a collection of patterns found in games that make code cleaner, easier to understand, and faster.
 
 Art
@@ -77,12 +77,12 @@ Art
 **Blender** https://www.blender.org/  
  A free & open-source 3D modeling, sculpting, and animation software
 
-**Sculptris** https://zbrushcore.com/mini/  
+**ZBrushCoreMini** https://zbrushcore.com/mini/  
  A free 3D sculpting tool, kind of the free version of zbrush.
 
 **picoCAD** https://johanpeitz.itch.io/picocad  
- A free tool to make and texture lowpoly 3D objects, using the pico8 engine. 
- Exporting to obj/mtl is in progress and can be found on their discord.
+ A free tool to make and texture lowpoly 3D objects, using the pico8 engine.  
+ Toolbox exports picoCad txt files into obj/mtl.
 
 **Crocotile3D** https://prominent.itch.io/crocotile3d  
  A tool for creating 3d scenes with tiles. Think of it as creating 2d tilemaps with three dimensions.  
@@ -155,7 +155,8 @@ Art
  Is a free rotoscoping pixel-art tool where you can trace/draw on top of any window, wallpaper or video etc.
 
 **Aseprite** https://www.aseprite.org/  
- Similarly also a good tool for pixel art and spriting, but you'll have to purchase it, unless you can compile the source yourself.
+ Similarly also a good tool for pixel art and spriting, but you'll have to purchase it, unless you can compile the source yourself.  
+ And Aseprite2Unity https://seanba.itch.io/aseprite2unity can automatically import Aseprite into Unity.
 
 **Pyxeledit** http://pyxeledit.com/  
  A paid pixel art drawing application especially designed for working with tiles.
@@ -166,9 +167,6 @@ It has an outdated free version.
 
 **Shoebox** https://renderhjs.net/shoebox/  
  A free Adobe Air based app, sort of a swiss knife for ui or sprite sheets, it has things like sprite sheet packer & extracter, slicer, frame sheet, bitmap font, tile extractor from a screenshot of a game, and texture ripper etc.
-
-**Tiled Map Editor** https://thorbjorn.itch.io/tiled and http://www.mapeditor.org/  
- Tiled is a free software level editor. It supports editing tile maps in various projections (orthogonal, isometric, hexagonal) and also supports building levels with freely positioned, rotated or scaled images or annotating them with objects of various shapes. Also for its Unity import support https://seanba.itch.io/tiled2unity
 
 **Explosion Generator** http://www.explosiongenerator.com/  
  Generate very customizable 2D sprite explosions. It is a web app.
@@ -384,6 +382,15 @@ Allows you to use gcc, g++ etc in windows.
 **PyCharm** (Python) https://www.jetbrains.com/pycharm/
 
 # Level Design
+
+**LDtk** https://ldtk.io/
+An open-source 2D level editor with game entities with properties and other useful features. Note it focuses on side & top-downs perspectives, no isometric.  
+Exports in a JSON format with already existing loaders in: C# & Unity, Haxe, Go, Python, Rust, C++ & Godot, Kotlin, JS.  
+
+**Tiled Map Editor** http://www.mapeditor.org/
+ Tiled is a free software level editor. It supports editing tile maps in various projections (orthogonal, isometric, hexagonal) and can also add objects with properties.  
+ Many game frameworks and libraries support it. It can also be exported to many formats including JSON.  
+ It has Unity import support through https://seanba.itch.io/supertiled2unity  
 
 **Cavegen** https://elementalcode.itch.io/cavegen
 A Cave Generator based on Cellular Automata.

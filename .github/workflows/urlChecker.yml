@@ -1,0 +1,26 @@
+# Link verification by awesome_bot https://github.com/dkhamsing/awesome_bot
+# Taken from https://github.com/dkhamsing/awesome_bot#github-actions
+
+name: Ruby
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Url Checks
+      run: |
+        gem install awesome_bot
+        awesome_bot readme.md --allow-dupe --allow-redirect --allow-ssl --white-list "https://mugenarchive.com/forums/downloads.php?do=file&id=1421","https://www.pexels.com/"
