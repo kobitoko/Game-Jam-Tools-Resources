@@ -19,6 +19,7 @@ Tools
 - [Level Design](#Level-Design)
 - [Quest Design](#Quest-Design)
 - [Other tools](#Other-tools)
+
 [Free Resources](#Free-Resources)
 - [Upload Games](#upload-your-games-etc)
 - [Online Game Services API](#online-game-services-api)
@@ -383,20 +384,20 @@ Allows you to use gcc, g++ etc in windows.
 
 # Level Design
 
-**LDtk** https://ldtk.io/
+**LDtk** https://ldtk.io/  
 An open-source 2D level editor with game entities with properties and other useful features. Note it focuses on side & top-downs perspectives, no isometric.  
 Exports in a JSON format with already existing loaders in: C# & Unity, Haxe, Go, Python, Rust, C++ & Godot, Kotlin, JS.  
 
-**Tiled Map Editor** http://www.mapeditor.org/
+**Tiled Map Editor** http://www.mapeditor.org/  
  Tiled is a free software level editor. It supports editing tile maps in various projections (orthogonal, isometric, hexagonal) and can also add objects with properties.  
  Many game frameworks and libraries support it. It can also be exported to many formats including JSON.  
  It has Unity import support through https://seanba.itch.io/supertiled2unity  
 
-**Cavegen** https://elementalcode.itch.io/cavegen
+**Cavegen** https://elementalcode.itch.io/cavegen  
 A Cave Generator based on Cellular Automata.
 
 # Quest Design
-**RapidQuest** https://www.rapidquest.ai
+**RapidQuest** https://www.rapidquest.ai  
 Visual development environment for designing branching game quests & narratives using AI.
 
 # Other tools
@@ -433,7 +434,7 @@ Visual development environment for designing branching game quests & narratives 
 
 Useful Web Resources:
 
-# Upload your Games etc.
+## Upload your Games etc.
 
 https://itch.io/  
 https://gamejolt.com/  
