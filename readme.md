@@ -318,6 +318,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Ren'Py** a visual novel engine (Python) https://www.renpy.org/  
 **GDevelop** (Visual Scripting, extendable with JavaScript) https://gdevelop-app.com/  
 **Game Maker Studio** (Visual Scripting, GML) https://www.yoyogames.com/gamemaker  
+**ioquake3** (C) https://ioquake3.org/
 **Construct 2** (Visual Scripting) https://www.scirra.com/  
 **FELGO (formerly known as V-Play)** crossplatform games/apps (C++, QML, JavaScript) https://felgo.com/  
 **WOLF RPG Editor** (Free WYSIWYG Rpg maker software) https://www.moddb.com/engines/wolf-rpg-editor  
