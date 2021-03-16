@@ -318,7 +318,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Ren'Py** a visual novel engine (Python) https://www.renpy.org/  
 **GDevelop** (Visual Scripting, extendable with JavaScript) https://gdevelop-app.com/  
 **Game Maker Studio** (Visual Scripting, GML) https://www.yoyogames.com/gamemaker  
-**ioquake3** (C) https://ioquake3.org/
+**ioquake3** (C) https://ioquake3.org/  
 **Construct 2** (Visual Scripting) https://www.scirra.com/  
 **FELGO (formerly known as V-Play)** crossplatform games/apps (C++, QML, JavaScript) https://felgo.com/  
 **WOLF RPG Editor** (Free WYSIWYG Rpg maker software) https://www.moddb.com/engines/wolf-rpg-editor  
@@ -327,12 +327,13 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Touhou Web Engine** Engine for web-based bullet dodging game (JavaScript) https://github.com/kvfrans/touhou  
 **Mugen** (2D fighting game engine) https://mugenarchive.com/forums/downloads.php?do=file&id=1421--official-mugen-1-0-stable-elecbyte  
 **OpenBOR** (2D side scrolling/Beat'em up engine) https://github.com/DCurrent/openbor  
-**processing** good for small prototypes (Processing (Java-like)) https://processing.org/  
+**Processing** good for small prototypes (Processing (Java-like)) https://processing.org/  
  Processing in JS: https://p5js.org/ and Python: https://py.processing.org/
 
 **LÖVE** (Lua) http://love2d.org/  
 **Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/ https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://github.com/libgdx/libgdx  
+**Electron** A framework to create cross-platform desktop applications, based on Node.js and Chromium. (JavaScript, HTML and CSS) https://www.electronjs.org/  
 **BabylonJS** Create 3D WebGL games for the browser (JavaScript) https://www.babylonjs.com/  
 **PaperJS** A vector graphics scripting framework for HTML5 Canvas (JavaScript) http://paperjs.org/  
 **ZIM** A framework for the HTML5 Canvas, powered by CreateJS (JavaScript) https://zimjs.com/about.html
