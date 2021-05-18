@@ -247,7 +247,7 @@ A simple and easy-to-use tool to generate sounds for your games, based on the am
 **LMMS** https://lmms.io/  
  A free, cross-platform tool for creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
 
-**Beepbox** https://beepbox.co
+**Beepbox** https://beepbox.co   
  A web-based tool to create a music easier
 
 **MidiEditor** http://midieditor.sourceforge.net/  
@@ -354,7 +354,7 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/ https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://github.com/libgdx/libgdx  
 **Electron** A framework to create cross-platform desktop applications, based on Node.js and Chromium. (JavaScript, HTML and CSS) https://www.electronjs.org/  
-**HaxeFlixel** (Haxe) https://haxeflixel.com/ A Cross-Platform Framework powered on [OpenFL](https://openfl.org) to make games easier and free
+**HaxeFlixel** A Cross-Platform Framework powered on [OpenFL](https://openfl.org) to make games easier and free (Haxe) https://haxeflixel.com/   
 **Heaps** (Haxe) https://heaps.io  
 **BabylonJS** Create 3D WebGL games for the browser (JavaScript) https://www.babylonjs.com/  
 **PaperJS** A vector graphics scripting framework for HTML5 Canvas (JavaScript) http://paperjs.org/  
@@ -417,7 +417,7 @@ Exports in a JSON format with already existing loaders in: C# & Unity, Haxe, Go,
  Many game frameworks and libraries support it. It can also be exported to many formats including JSON.  
  It has Unity import support through https://seanba.itch.io/supertiled2unity  
 
-**Ogmo Editor 3** https://ogmo-editor-3.github.io/
+**Ogmo Editor 3** https://ogmo-editor-3.github.io/   
  A Simple, Easy and Free level editor it was used on [Celeste](https://store.steampowered.com/app/504230/Celeste/)
 
 **Cavegen** https://elementalcode.itch.io/cavegen  
