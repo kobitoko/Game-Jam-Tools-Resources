@@ -474,7 +474,7 @@ https://gamejolt.com/
 https://www.indiedb.com/
 
 ### Web Only
-https://www.newgrounds.com/
+https://www.newgrounds.com/   
 https://www.kongregate.com/
 
 ### Game Jam Websites
