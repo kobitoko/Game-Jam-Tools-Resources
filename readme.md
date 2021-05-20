@@ -3,22 +3,39 @@
 ## A list of many game jam tools and [resources](#Free-Resources).
 
 Tools  
-- [Art](#Art)
-  - [3D](#3D)
-  - [Animation](#Animation)
+- [Tools & Resources](#tools--resources)
+  - [A list of many game jam tools and resources.](#a-list-of-many-game-jam-tools-and-resources)
+- [Art](#art)
+  - [3D](#3d)
+- [Animation](#animation)
   - [Pixel Art/Animation software](#pixel-artanimation-software)
   - [Image/Animation Tools](#imageanimation-tools)
-- [Sound](#Sound)
-- [Music](#Music)
-  - [Trackers](#Trackers)
-  - [Online Audio Tools](#Online-Audio-Tools)
-  - [Music Generators](#Music-Generators)
-- [Video Editing](#Video-Editing)
+- [Sound](#sound)
+- [Music](#music)
+  - [Trackers:](#trackers)
+  - [Online Audio Tools](#online-audio-tools)
+  - [Music Generators](#music-generators)
+- [Video Editing](#video-editing)
 - [Game Engines, Frameworks, Libs.](#game-engines-frameworks-libs)
-- [Programming](#Programming)
-- [Level Design](#Level-Design)
-- [Quest Design](#Quest-Design)
-- [Other tools](#Other-tools)
+- [Programming](#programming)
+    - [Free C/C++ Profiling/Testing:](#free-cc-profilingtesting)
+    - [Text Editors & IDEs:](#text-editors--ides)
+- [Level Design](#level-design)
+- [Quest Design](#quest-design)
+- [Other tools](#other-tools)
+- [Free Resources](#free-resources)
+  - [Upload your Games etc.](#upload-your-games-etc)
+    - [Cross-Platform (Web or Desktop)](#cross-platform-web-or-desktop)
+    - [Desktop Only](#desktop-only)
+    - [Web Only](#web-only)
+    - [Game Jam Websites](#game-jam-websites)
+  - [Online Game Services API](#online-game-services-api)
+- [Sound Resources](#sound-resources)
+- [Music Resources](#music-resources)
+- [Art Resources](#art-resources)
+  - [Images/Photos Resources](#imagesphotos-resources)
+  - [Textures Resources](#textures-resources)
+  - [3D Objects Resources](#3d-objects-resources)
 
 [Free Resources](#Free-Resources)
 - [Upload Games](#upload-your-games-etc)
@@ -156,7 +173,7 @@ Art
  Is a free rotoscoping pixel-art tool where you can trace/draw on top of any window, wallpaper or video etc.
 
 **Aseprite** https://www.aseprite.org/  
- Similarly also a good tool for pixel art and spriting, but you'll have to purchase it, unless you can compile the source yourself.  
+ Similarly also a good tool for pixel art and spriting, but you'll have to purchase it, unless you can compile the [source](https://github.com/aseprite/aseprite) yourself.  
  And Aseprite2Unity https://seanba.itch.io/aseprite2unity can automatically import Aseprite into Unity.
 
 **Pyxeledit** http://pyxeledit.com/  
@@ -229,6 +246,9 @@ A simple and easy-to-use tool to generate sounds for your games, based on the am
 
 **LMMS** https://lmms.io/  
  A free, cross-platform tool for creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
+
+**Beepbox** https://beepbox.co   
+ A web-based tool to create a music easier
 
 **MidiEditor** http://midieditor.sourceforge.net/  
  A free software to make, edit, and play Midi data.
@@ -334,6 +354,8 @@ A lot taken from https://www.yoyogames.com/blog/119/procedural-music-a-viable-al
 **Phaser3 or Phaser CE** 2D game framework for making HTML5 games on Canvas and WebGL (JavaScript) http://phaser.io/ https://github.com/photonstorm/phaser-ce  
 **libGDX** (Java) https://github.com/libgdx/libgdx  
 **Electron** A framework to create cross-platform desktop applications, based on Node.js and Chromium. (JavaScript, HTML and CSS) https://www.electronjs.org/  
+**HaxeFlixel** A Cross-Platform Framework powered on [OpenFL](https://openfl.org) to make games easier and free (Haxe) https://haxeflixel.com/   
+**Heaps** (Haxe) https://heaps.io  
 **BabylonJS** Create 3D WebGL games for the browser (JavaScript) https://www.babylonjs.com/  
 **PaperJS** A vector graphics scripting framework for HTML5 Canvas (JavaScript) http://paperjs.org/  
 **ZIM** A framework for the HTML5 Canvas, powered by CreateJS (JavaScript) https://zimjs.com/about.html
@@ -395,6 +417,9 @@ Exports in a JSON format with already existing loaders in: C# & Unity, Haxe, Go,
  Many game frameworks and libraries support it. It can also be exported to many formats including JSON.  
  It has Unity import support through https://seanba.itch.io/supertiled2unity  
 
+**Ogmo Editor 3** https://ogmo-editor-3.github.io/   
+ A Simple, Easy and Free level editor it was used on [Celeste](https://store.steampowered.com/app/504230/Celeste/)
+
 **Cavegen** https://elementalcode.itch.io/cavegen  
 A Cave Generator based on Cellular Automata.
 
@@ -432,15 +457,28 @@ Visual development environment for designing branching game quests & narratives 
 **instant storm 2.0** https://www.instantstorm.com/  
  Is a freeware flash screensaver creator that turns Adobe Flash files (SWF) into screensavers.
 
+**Pixelbyte Color Picker** https://pixelbyte.itch.io/color-pick
+ A very simple and nice software that capture colors on your desktop and covert it to many color codes such as Hex, Unity3D, CMYK, etc.
+
 # Free Resources
 
 Useful Web Resources:
 
 ## Upload your Games etc.
 
+### Cross-Platform (Web or Desktop)
 https://itch.io/  
 https://gamejolt.com/  
+
+### Desktop Only
 https://www.indiedb.com/
+
+### Web Only
+https://www.newgrounds.com/   
+https://www.kongregate.com/
+
+### Game Jam Websites
+https://ldjam.com/
 
 ## Online Game Services API
 https://dev.epicgames.com/en-US/services  
