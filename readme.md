@@ -405,6 +405,7 @@ Allows you to use gcc, g++ etc in windows.
 **Code::Blocks** (C/C++) http://www.codeblocks.org/  
 **Eclipse** (Java, C/C++, and more) https://eclipse.org/  
 **PyCharm** (Python) https://www.jetbrains.com/pycharm/
+**CodeLobster** (HTML, CSS, JS, TS, PHP) https://codelobster.com/
 
 # Level Design
 
