@@ -53,6 +53,7 @@ List of lists https://github.com/sindresorhus/awesome
 More wonderful list of Game Development resources:  
  https://github.com/Kavex/GameDev-Resources  
  https://github.com/ellisonleao/magictools  
+ https://respawnstack.com  - Free directory of pricing, commercial-use and ownership terms for AI game-dev tools
  https://globalgamejam.org/jammer-resources  
  http://ludumdare.com/compo/tools/  
  https://devga.me/free/  
